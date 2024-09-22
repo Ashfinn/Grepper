@@ -1,10 +1,15 @@
 # Grepper
 
-[![progress-banner](https://backend.codecrafters.io/progress/grep)](https://app.codecrafters.io/courses/grep/overview)
+[![progress-banner](https://backend.codecrafters.io/progress/shell/d2c1f252-4929-4703-a65a-863874d64979)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
 This repository contains an implementation of the `grep` tool built in C++ as part of the [Codecrafters "Build Your Own Grep" Challenge](https://app.codecrafters.io/courses/grep/overview). The project focuses on building a regular expression (Regex) engine from scratch, capable of searching through text with support for various Regex patterns and features.
 
 <a id="readme-top"></a>
+
+<!-- PROJECT SHIELDS -->
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -140,4 +145,10 @@ Project Link: [https://github.com/Ashfinn/grepper](https://github.com/Ashfinn/gr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
+<!-- MARKDOWN LINKS & IMAGES -->
+[forks-shield]: https://img.shields.io/github/forks/Ashfinn/Grepper.svg?style=for-the-badge
+[forks-url]: https://github.com/Ashfinn/Grepper/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ashfinn/Grepper.svg?style=for-the-badge
+[stars-url]: https://github.com/Ashfinn/Grepper/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ashfinn/Grepper.svg?style=for-the-badge
+[issues-url]: https://github.com/Ashfinn/Grepper/issues
